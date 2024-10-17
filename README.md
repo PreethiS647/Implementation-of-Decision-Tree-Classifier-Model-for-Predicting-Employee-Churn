@@ -21,11 +21,14 @@ Developed by: Preethi S
 RegisterNumber:  212223230157
 */
 ```
+```
 import pandas as pd
 data = pd.read_csv("Employee.csv")
 data.head()
+```
 
 ![image](https://github.com/user-attachments/assets/df6bf877-1829-4c05-ad9b-27a4d44d4d6f)
+
 ```
 data.info()
 ```
